@@ -1,0 +1,11 @@
+# Python environments and generated files
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local configuration and generated database
+.env
+*.db
+
+# macOS metadata
+.DS_Store
